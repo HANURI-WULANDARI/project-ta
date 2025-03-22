@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/tes', function () {
     return view('welcome');
 });
+Route::get('/tess', function () {
+    return view('welcome');
+});
